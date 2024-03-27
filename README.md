@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p>
 <h2>Hi There! 👋 , I'm Mohamed Wael</h2>
-Studying Electronics & Communications at <a href="https://www.mans.edu.eg/en">Mansoura University</a>.  
+Studied Electronics & Communications at <a href="https://www.mans.edu.eg/en">Mansoura University</a>.  
     
 Interested in Computer Vision, ML and DL.
 </p>
