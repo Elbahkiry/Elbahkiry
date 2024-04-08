@@ -35,7 +35,7 @@ Interested in Computer Vision, ML and DL.
   <a href="https://t.me/Elbahkiry" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
   </a>
-  <a href="https://discord.com/mohamedwael577" target="_blank">
+  <a href="https://discord.com/users/mohamedwael577" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
   </a>
   
